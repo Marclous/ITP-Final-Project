@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"fadeout",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"fadeout",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
